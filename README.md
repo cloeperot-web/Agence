@@ -1,5 +1,5 @@
 # Titre du projet + description 
-Time Travel Agency, création d’une Webapp pour mettre en avant les service de voyage temporel 
+Time Travel Agency, création d’une Webapp avec l'IA pour mettre en avant les service de voyage temporel by Chloé Benoit, Pauline Bianco, Cloé Pérot, Lola Panont M2BRANDCONTENT
 
 **#Technologies utilisées**
 React + Tailwind CSS
